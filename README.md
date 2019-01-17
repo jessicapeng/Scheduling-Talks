@@ -1,4 +1,4 @@
-# Scheduling-Talks
+# Scheduling Talks
 
 Task:
 
